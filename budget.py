@@ -1,5 +1,5 @@
 class budget:
-    amount = 0
+    
 
 
     def __init__(self, category,amount):
