@@ -75,3 +75,4 @@ catg2 = budget("food",1000)
 catg3 = budget("entertainment",1000)
 
 catg1.operation()
+print(' thanks genius')
